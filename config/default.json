@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Beebs123:Beebs123@juicegranola.eiofj.mongodb.net/JuiceGranola?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
